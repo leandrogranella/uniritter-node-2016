@@ -4,4 +4,4 @@ node_js:
   - "5.11"
 addons:
     code_climate:
-        repo_token: 11ab015eadfda145daff4dddeef88e8ff19afd9b8e2a32827680541b8b663381
+        repo_token: c9fb5f3db0cae1328e93553eae067c5f7d54665031921899fa943ed8619c0863
